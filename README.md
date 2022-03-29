@@ -2,7 +2,6 @@
 ## Prerequosite
 1. You should have basic idea of what are cryptocurrencies and what is meant by cryptocurrency trading.
 2. You should be familiar with python as trality bots are written in python.
-3. 
 
 ## Overview
 Crypto is certainly growing now a days and it is giving unthinkable profits to some while dumping savings of many. And one of the major cause of this loss is that many people invest in crypto without having any core strategies. And sad part is that strategies that does work like Portfolio balancing or dollar cost averiging etc, mostly require a lot of Capital, which common folks don't have.
