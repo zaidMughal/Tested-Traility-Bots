@@ -4,13 +4,11 @@ HIGHER = 0.62
 NUM = 10
 def initialize(state):
    state.order_amt_q = WALLET/NUM
-   grid[state.order_amt_q]
-   for x in grid:
-       x.order = 
+   state.grid = [0]*NUM
+   print(state.grid)
 
 
-@schedule(interval="5m", symbol="ADAUSDT")
+@schedule(interval="1h", symbol="ADAUSDT")
 def run(state, data):
-   
-
+    data.aroon(14)
         
