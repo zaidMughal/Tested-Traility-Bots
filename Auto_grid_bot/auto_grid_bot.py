@@ -1,3 +1,8 @@
+#Step 1: Make grid bot with defined limits
+#Step 2: Make grid bot with limits calculated automatically
+#Step 3: Add a trend detecting mechanism that only turns on trading when market is moving sideways
+
+
 WALLET = 100
 LOWER = 0.48
 HIGHER = 0.62
